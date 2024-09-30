@@ -15,8 +15,8 @@ void main() {
 
     cyBOT_Scan_t scanData;
     //cyBOT_SERVO_cal();
-    right_calibration_value = 311500;
-    left_calibration_value = 1319500;
+    right_calibration_value = 274750;
+    left_calibration_value = 1298500;
     int loop;
     int angle;
     char data[200];
@@ -69,7 +69,7 @@ int is_within_tolerance(float a, float b, float tolerance) {
 // function to automatically clean up distance (new)
 float cleanup_distance (float previous_distance, float current_distance){
 
-    tolerance_val = 0.1;
+    float tolerance_val = 0.01;
 
     if (current_distance > 2.5) {
         current_distance = 2.5;
@@ -79,15 +79,6 @@ float cleanup_distance (float previous_distance, float current_distance){
         return current_distance;
     } else {
         return current_distance;
-    }
-}
-
-// function to automatically clean distance in header file (new)
-void cleanup_distance_in_header_file () {
-    float previous_distance = -1; // Initialize previous distance
-    for (int i = 0; i < 91; i++) {
-        sensor_data_array[i] = cleanup_distance(previous_distance, sensor_data_array[i]);
-        previous_distance = sensor_data_array[i]; // Update previous distance
     }
 }
 
@@ -116,7 +107,20 @@ void main() {
 
     int start_angle, end_angle;
 
-    cleanup_distance_in_header_file(); // added this (not sure if it works)
+    // Create a new array to hold cleaned-up distances
+    float cleaned_sensor_data[91];
+
+    // Clean up distance data
+    int i;
+    for (i = 0; i < 91; i++) {
+        cleaned_sensor_data[i] = cleanup_distance(prev_distance, sensor_data_array[i]);
+        prev_distance = cleaned_sensor_data[i]; // Update previous distance
+        sprintf(data, "%.2f\r", cleaned_sensor_data[i]);
+        for (loop = 0; loop < strlen(data); loop++) {
+            cyBot_sendByte(data[loop]);
+        }
+    }
+
 
     for (degree = 0; degree <= 180; degree += 2) {
         distance = sensor_data_array[degree / 2];

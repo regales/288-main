@@ -1,4 +1,4 @@
-activeuserprofiles=CO1318-02;Team
+activeuserprofiles=CO1318-02;CO2041-09;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=ryanchin
-useridperkey=CO1318-02.Local\=ryanchin;
+useridperkey=CO2041-09.Local\=ryanchin;CO1318-02.Local\=ryanchin;
