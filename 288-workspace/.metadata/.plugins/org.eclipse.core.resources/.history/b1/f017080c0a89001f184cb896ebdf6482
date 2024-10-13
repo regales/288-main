@@ -102,13 +102,13 @@ void uart_interrupt_handler()
 //        uart_data = uart_receive();
 //
 //        UART1_ICR_R &= 0x00000010;
-//    }
-//
-//
-//
-//    //STEP2:  Copy the data
-//
-//    //STEP3:  Clear the interrupT
-//    flag = 1;
+    }
+
+
+
+    //STEP2:  Copy the data
+
+    //STEP3:  Clear the interrupT
+    flag = 1;
 
 }
