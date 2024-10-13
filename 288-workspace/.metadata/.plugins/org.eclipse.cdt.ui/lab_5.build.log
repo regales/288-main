@@ -3,60 +3,6 @@
 
 "C:\\ti\\ccs1271\\ccs\\utils\\bin\\gmake" -k -j 2 all -O 
  
-Building file: "../button.c"
-Invoking: Arm Compiler
-"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="U:/fall2024/288-main/288-workspace/lab_5" --include_path="C:/ti/TivaWare_C_Series-2.2.0.295" --include_path="C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="button.d_raw"  "../button.c"
-"../button.c", line 34: warning #1181-D: #warning directive: "Unimplemented function: void button_init()"
-"../button.c", line 46: warning #225-D: function "timer_waitMillis" declared implicitly
-"../button.c", line 64: warning #1181-D: #warning directive: : "Unimplemented function: void init_button_interrupts() -- You must configure GPIO to detect interrupts" // delete warning after implementing
-"../button.c", line 86: warning #1181-D: #warning directive: : "Unimplemented function: void init_button_interrupts() -- You must configure interrupts" // delete warning after implementing
-"../button.c", line 101: warning #1181-D: #warning directive: : "Unimplemented function: void gpioe_handler() -- You must configure interrupts" // delete warning after implementing
-"../button.c", line 117: warning #1181-D: #warning directive: "Unimplemented function: uint8_t button_getButton(void)"   // delete warning after implementing
-Finished building: "../button.c"
- 
-Building file: "../Timer.c"
-Invoking: Arm Compiler
-"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="U:/fall2024/288-main/288-workspace/lab_5" --include_path="C:/ti/TivaWare_C_Series-2.2.0.295" --include_path="C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="Timer.d_raw"  "../Timer.c"
-Finished building: "../Timer.c"
- 
-Building file: "../lcd.c"
-Invoking: Arm Compiler
-"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="U:/fall2024/288-main/288-workspace/lab_5" --include_path="C:/ti/TivaWare_C_Series-2.2.0.295" --include_path="C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="lcd.d_raw"  "../lcd.c"
-Finished building: "../lcd.c"
- 
-Building file: "../main.c"
-Invoking: Arm Compiler
-"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="U:/fall2024/288-main/288-workspace/lab_5" --include_path="C:/ti/TivaWare_C_Series-2.2.0.295" --include_path="C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
-"../main.c", line 11: warning #1181-D: #warning directive: "Possible unimplemented functions"
-"../main.c", line 95: warning #176-D: expression has no effect
-"../main.c", line 134: warning #176-D: expression has no effect
-"../main.c", line 143: warning #112-D: statement is unreachable
-"../main.c", line 71: warning #179-D: variable "scanData" was declared but never referenced
-"../main.c", line 72: warning #179-D: variable "raw_ir" was declared but never referenced
-"../main.c", line 77: warning #179-D: variable "command" was declared but never referenced
-Finished building: "../main.c"
- 
-Building file: "../movement.c"
-Invoking: Arm Compiler
-"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="U:/fall2024/288-main/288-workspace/lab_5" --include_path="C:/ti/TivaWare_C_Series-2.2.0.295" --include_path="C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="movement.d_raw"  "../movement.c"
-Finished building: "../movement.c"
- 
-Building file: "../tm4c123gh6pm_startup_ccs.c"
-Invoking: Arm Compiler
-"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="U:/fall2024/288-main/288-workspace/lab_5" --include_path="C:/ti/TivaWare_C_Series-2.2.0.295" --include_path="C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="tm4c123gh6pm_startup_ccs.d_raw"  "../tm4c123gh6pm_startup_ccs.c"
-Finished building: "../tm4c123gh6pm_startup_ccs.c"
- 
-Building file: "../open_interface.c"
-Invoking: Arm Compiler
-"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="U:/fall2024/288-main/288-workspace/lab_5" --include_path="C:/ti/TivaWare_C_Series-2.2.0.295" --include_path="C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --preproc_with_compile --preproc_dependency="open_interface.d_raw"  "../open_interface.c"
-"../open_interface.c", line 356: warning #179-D: variable "charging_state" was declared but never referenced
-Finished building: "../open_interface.c"
- 
-Building target: "lab_5.out"
-Invoking: Arm Linker
-"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi -z -m"lab_5.map" --heap_size=1024 --stack_size=2048 -i"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/lib" -i"C:/ti/ccs1271/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="lab_5_linkInfo.xml" --rom_model -o "lab_5.out" "./Timer.obj" "./button.obj" "./lcd.obj" "./main.obj" "./movement.obj" "./open_interface.obj" "./tm4c123gh6pm_startup_ccs.obj" "../libcybotScan.lib" "../libcybotUART.lib" "../tm4c123gh6pm.cmd"  -llibc.a -l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib" 
-<Linking>
-Finished building target: "lab_5.out"
- 
+gmake[1]: 'lab_5.out' is up to date.
 
 **** Build Finished ****
