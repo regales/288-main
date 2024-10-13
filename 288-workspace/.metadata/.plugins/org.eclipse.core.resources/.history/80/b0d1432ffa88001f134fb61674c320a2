@@ -30,7 +30,6 @@ void main()
     timer_init();
     lcd_init();
     uart_init(115200);
-    uart_interrupt_init();
 
     lcd_clear();
 
@@ -51,9 +50,8 @@ void main()
             i++;
         }
         data[i] = '\0';
-        uart_sendStr(data); //send receive string back to UART
+        uart_sendStr(data); //send receive string back to UART (echo)
         lcd_clear();
-        lcd_home();
         lcd_printf("%s", data);
     }
 

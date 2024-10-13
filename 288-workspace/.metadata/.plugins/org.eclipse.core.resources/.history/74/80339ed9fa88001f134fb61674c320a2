@@ -1,0 +1,82 @@
+/**
+ * lab6_template_extra_help.c
+ *
+ * Description: This is file is meant for those that would like a little
+ *              extra help with formatting their code.
+ *
+ */
+
+#define _PART1 1
+#define _PART2 0
+#define _PART3 0
+
+#include "timer.h"
+#include "lcd.h"
+#include "uart.h"
+
+
+// Adding global volatile varibles for communcating between
+// your Interupt Service Routine, and your non-interupt code.
+
+volatile  char uart_data;  // Your UART interupt code can place read data here
+volatile  char flag;       // Your UART interupt can update this flag
+// to indicate that it has placed new data
+// in uart_data
+#define BUFFER_SIZE 21
+
+void main()
+{
+
+    timer_init();
+    lcd_init();
+    uart_init(115200);
+
+    lcd_clear();
+
+    //#if _PART1      // Receive and display text
+
+    char data[BUFFER_SIZE]; // Buffer for 20 characters + null terminator
+    int i = 0;
+
+    while (1) // Infinite loop to continuously receive input
+    {
+        char input_char = uart_receive(); // Read the received character
+
+        if (input_char == '\r') { // Check for carriage return
+            if (i > 0) { // Only display if there's data in the buffer
+                data[i] = '\0'; // Null-terminate the string
+                lcd_clear(); // Clear the display
+                lcd_printf("%s", data); // Display the entire series of characters
+                i = 0; // Reset the buffer index for the next input
+            }
+            continue; // Skip displaying the carriage return
+        }
+
+        // Store the character in the buffer
+        if (i < 20) { // Check if there's space in the buffer
+            data[i] = input_char; // Store the character
+            i++; // Increment the count of characters stored
+
+            // Display the character on line 1 and the count on line 2
+            lcd_clear(); // Clear the LCD for new display
+            lcd_printf("%c", input_char); // Display the received character
+            lcd_setCursor(1, 0); // Move to line 2
+            lcd_printf("Count: %d", i); // Display the current count of characters
+        }
+    }
+
+
+    //#endif
+    //
+    //#if _PART2      // Echo Received Character
+    //    // TODO
+    //
+    //#endif
+    //
+    //#if _PART3 // Receive and send characters using interrupts.
+    // // TODO
+    //
+    //#endif
+
+}
+

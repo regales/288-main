@@ -43,7 +43,7 @@ void main()
 
         while (i < 20)
         {
-            input_char = uart_receive(); //read the received data from UART
+            input_char = uart_receive();
             if (input_char == '\r') {
                 break;
             }
@@ -51,9 +51,8 @@ void main()
             i++;
         }
         data[i] = '\0';
-        uart_sendStr(data); //send receive string back to UART
+        uart_sendStr(data);
         lcd_clear();
-        lcd_home();
         lcd_printf("%s", data);
     }
 

@@ -48,6 +48,7 @@ void main()
                 break;
             }
             data[i] = input_char;
+            lcd_printf("%d", i);
             i++;
         }
         data[i] = '\0';

@@ -55,6 +55,7 @@ void main()
         lcd_clear();
         lcd_home();
         lcd_printf("%s", data);
+        lcd_printf("%d", i);
     }
 
 

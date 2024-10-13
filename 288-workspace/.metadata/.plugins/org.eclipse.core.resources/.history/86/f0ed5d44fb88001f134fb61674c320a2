@@ -53,7 +53,6 @@ void main()
         data[i] = '\0';
         uart_sendStr(data); //send receive string back to UART
         lcd_clear();
-        lcd_home();
         lcd_printf("%s", data);
     }
 

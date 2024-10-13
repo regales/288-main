@@ -72,8 +72,6 @@ void uart_sendStr(const char *data)
         uart_sendChar(*data);
         data++;
     }
-    uart_sendChar('\r');
-    uart_sendChar('\n');
 
 }
 
@@ -96,12 +94,12 @@ void uart_interrupt_init()
 
 void uart_interrupt_handler()
 {
-//    // STEP1: Check the Masked Interrup Status
-//    if (UART1_MIS_R & 0x00000010){
-//
-//        uart_data = uart_receive();
-//
-//        UART1_ICR_R &= 0x00000010;
+    /// STEP1: Check the Masked Interrup Status
+    if (UART1_MIS_R & 0x00000010){
+
+        uart_data = uart_receive();
+
+        UART1_ICR_R &= 0x00000010;
     }
 
 
