@@ -1,0 +1,62 @@
+/**
+ * lab6_template_extra_help.c
+ *
+ * Description: This is file is meant for those that would like a little
+ *              extra help with formatting their code.
+ *
+ */
+
+#define _PART1 1
+#define _PART2 0
+#define _PART3 0
+
+#include "timer.h"
+#include "lcd.h"
+#include "uart.h"
+
+
+// Adding global volatile varibles for communcating between
+// your Interupt Service Routine, and your non-interupt code.
+
+volatile  char uart_data;  // Your UART interupt code can place read data here
+volatile  char flag;       // Your UART interupt can update this flag
+// to indicate that it has placed new data
+// in uart_data
+
+
+void main()
+{
+
+    timer_init();
+    lcd_init();
+    uart_init(115200);
+
+    lcd_clear();
+
+    //#if _PART1      // Receive and display text
+    // TODO
+    char input_char;
+
+    while (1) {
+
+        input_char = uart_receive(); // Read the received character
+        uart_sendStr(input_char);
+        lcd_putc(input_char);
+
+
+
+    }
+    //#endif
+    //
+    //#if _PART2      // Echo Received Character
+    //    // TODO
+    //
+    //#endif
+    //
+    //#if _PART3 // Receive and send characters using interrupts.
+    // // TODO
+    //
+    //#endif
+
+}
+
