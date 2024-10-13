@@ -56,7 +56,7 @@ int main(void) {
                 continue;
             }
 
-            for (loop = 0; loop < strlen(data); loop++) {       // FIXME: Currently this code does not send a single message when a button is pressed (while loop)
+            for (loop = 0; loop < strlen(data); loop++) {
                 cyBot_sendByte(data[loop]);
             }
 
