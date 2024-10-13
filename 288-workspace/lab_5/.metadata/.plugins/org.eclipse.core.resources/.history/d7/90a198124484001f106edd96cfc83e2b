@@ -1,0 +1,108 @@
+/*
+ * button.c
+ *
+ *  Created on: Jul 18, 2016
+ *      Author: Eric Middleton, Zhao Zhang, Chad Nelson, & Zachary Glanz.
+ *  @edit: Lindsey Sleeth and Sam Stifter on 02/04/2019
+ *  @edit: Phillip Jones 05/30/2019: Merged Spring 2019 version with Fall 2018
+ *  @edit: Diane Rover 02/01/20: Corrected comments about ordering of switches for new LCD board and added busy-wait on PRGPIO
+ */
+
+//The buttons are on PORTE 3:0
+// GPIO_PORTE_DATA_R -- Name of the memory mapped register for GPIO Port E,
+// which is connected to the push buttons
+#include "button.h"
+#include "scan.h"
+#include "cyBot_uart.h"
+
+// Global variables
+volatile int button_event = 0;
+volatile int button_num = 0;
+
+/**
+ * Initialize PORTE and configure bits 0-3 to be used as inputs for the buttons.
+ */
+void button_init() {
+    static uint8_t initialized = 0;
+
+    // Check if already initialized
+    if(initialized){
+        return;
+    }
+
+    // 1) Turn on PORTE system clock
+    SYSCTL_RCGCGPIO_R |= 0b010000;  // Enable clock for Port E
+
+    // 2) Wait for the clock to be ready
+    while ((SYSCTL_PRGPIO_R & 0b010000) == 0) {};  // Wait for Port E to be ready
+
+    // 3) Set PE0-PE3 as inputs
+    GPIO_PORTE_DIR_R &= 0b11110000;  // Set PE0-PE3 as inputs
+
+    // 4) Enable digital functionality for PE0-PE3
+    GPIO_PORTE_DEN_R |= 0b00001111;  // Enable digital function on PE0-PE3
+
+    initialized = 1;
+}
+
+/**
+ * Initialize and configure PORTE interrupts
+ */
+void init_button_interrupts() {
+    // 1) Mask the bits for pins 0-3 (disable interrupts while configuring)
+    GPIO_PORTE_IM_R &= ~0x0F;
+
+    // 2) Set pins 0-3 to use edge sensing
+    GPIO_PORTE_IS_R &= ~0x0F;    // Edge-sensitive
+
+    // 3) Set pins 0-3 to use both edges (detect press and release)
+    GPIO_PORTE_IBE_R |= 0x0F;
+
+    // 4) Clear any prior interrupt flags
+    GPIO_PORTE_ICR_R = 0x0F;
+
+    // 5) Unmask the bits for pins 0-3
+    GPIO_PORTE_IM_R |= 0x0F;
+
+    // 6) Enable GPIO port E interrupt in NVIC (interrupt number 4, bit 4 in NVIC_EN0_R)
+    NVIC_EN0_R |= (1 << 4);
+
+    // Bind the interrupt to the handler
+    IntRegister(INT_GPIOE, gpioe_handler);
+}
+
+/**
+ * Interrupt handler -- executes when a GPIO PortE hardware event occurs (i.e., for this lab a button is pressed)
+ */
+void gpioe_handler() {
+    // Clear interrupt status register
+    GPIO_PORTE_ICR_R = 0x0F;  // Clear interrupt flags for PE0-PE3
+
+    // Set button_event to indicate an event occurred
+    button_event = 1;
+
+    // Update the button number
+    button_num = button_getButton();
+}
+
+/**
+ * Returns the position of the rightmost button being pushed.
+ * @return the position of the rightmost button being pushed. 1 is the leftmost button, 4 is the rightmost button. 0 indicates no button being pressed
+ */
+uint8_t button_getButton() {
+    if((GPIO_PORTE_DATA_R & 0b00001111) == 0b00001111) { // no buttons pressed
+        return 0;
+    }
+    else if((GPIO_PORTE_DATA_R & 0b00001000) == 0b00000000) { // button 4 pressed
+        return 4;
+    }
+    else if((GPIO_PORTE_DATA_R & 0b00000100) == 0b00000000) { // button 3 pressed
+        return 3;
+    }
+    else if((GPIO_PORTE_DATA_R & 0b00000010) == 0b00000000) { // button 2 pressed
+        return 2;
+    }
+    else { // button 1 pressed
+        return 1;
+    }
+}

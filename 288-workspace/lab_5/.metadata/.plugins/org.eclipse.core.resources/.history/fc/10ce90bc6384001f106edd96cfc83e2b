@@ -1,0 +1,112 @@
+
+
+#include "button.h"
+#include "timer.h"
+#include "lcd.h"
+
+#include "cyBot_uart.h"
+#include "cyBot_Scan.h"
+
+
+#warning "Possible unimplemented functions"
+#define REPLACEME 0
+
+
+
+extern volatile int button_event;
+extern volatile int button_num;
+
+float calculate_distance(int raw_ir) {
+    // Use the equation from the trendline: y = 0.5449x^2 - 47.501x + 1797.4
+    // Solve for x (the distance)
+    float distance = (0.5449 * raw_ir) - (47.501 * raw_ir) + 1797.4;
+    return distance;
+}
+
+int main(void) {
+    button_init();
+    init_button_interrupts();
+    lcd_init();
+    //cyBot_uart_init();        //uncomment it for part1
+    cyBot_uart_init_clean();    //comment it out for part1
+    cyBOT_init_Scan(0b0111);    //part3
+
+    //right_calibration_value = 337750;
+    //left_calibration_value = 1351000;
+
+    cyBOT_Scan_t scanData;
+    int raw_ir;
+    int i = 0;
+    float distance;
+    int loop = 0;
+
+    // Complete this code for configuring the  (GPIO) part of UART initialization       comment this part out for part1
+      SYSCTL_RCGCGPIO_R |= 0x02;
+      timer_waitMillis(1);
+      GPIO_PORTB_AFSEL_R |= 0x03;
+      GPIO_PORTB_PCTL_R &= ~0x000000FF;
+      GPIO_PORTB_PCTL_R |= 0x00000011;
+      GPIO_PORTB_DEN_R |= 0x03;
+      GPIO_PORTB_DIR_R &= ~0x01;
+      GPIO_PORTB_DIR_R |= 0x02;
+
+     cyBot_uart_init_last_half();
+
+
+     /*char startup_message[] = "Waiting for button presses...\r\n";
+         int loop;                                                                                  //part1
+         for (loop = 0; loop < strlen(startup_message); loop++) {
+             cyBot_sendByte(startup_message[loop]);  // Send startup message to PuTTY
+         }*/
+
+
+    while(1)
+    {
+        cyBOT_Scan(92, &scanData);
+
+        raw_ir = scanData.IR_raw_val;
+        float distance = calculate_distance(raw_ir);
+        lcd_printf("Raw IR: %d\nDistance: %.2f cm", raw_ir, distance);
+
+        char message[50];
+        sprintf(message, "Raw IR Value: %d\r\n", raw_ir);
+        for (i; i < strlen(message); i++) {
+            cyBot_sendByte(message[i]);
+        }
+        timer_waitMillis(2000);
+
+
+
+        if (button_event) {
+                    lcd_printf("Button %d pressed", button_num);
+
+                    // Send button press message to PuTTY
+                    char button_message[50];
+                    sprintf(button_message, "Button %d pressed\r\n", button_num);
+                    for (loop; loop < strlen(button_message); loop++) {
+                        cyBot_sendByte(button_message[loop]);
+                    }
+
+                    button_event = 0;
+                }
+            }
+    return 0;
+}
+
+/*#include "cyBot_Scan.h"
+#include "cyBot_uart.h"
+#include "Timer.h"
+#include "lcd.h"
+#include <stdio.h>
+#include <string.h>
+void main() {
+
+    timer_init();
+    lcd_init();
+    cyBot_uart_init();
+    cyBOT_init_Scan(0b0011);
+
+    cyBOT_Scan_t scanData;
+    cyBOT_SERVO_cal();
+
+}*/
