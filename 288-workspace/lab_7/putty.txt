@@ -1,0 +1,775 @@
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 0.00 PING: 0.00 cm
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 0.00 PING: 0.00 cm
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 775.67 PING: 36.33 cm
+Angle: 2 IR: 825.00 PING: 55.00 cm
+Angle: 4 IR: 837.67 PING: 59.33 cm
+Angle: 6 IR: 583.67 PING: 54.33 cm
+Angle: 8 IR: 580.33 PING: 45.33 cm
+Angle: 10 IR: 587.00 PING: 50.00 cm
+Angle: 12 IR: 613.00 PING: 88.67 cm
+Angle: 14 IR: 631.33 PING: 62.33 cm
+Angle: 16 IR: 664.00 PING: 53.00 cm
+Angle: 18 IR: 716.33 PING: 58.67 cm
+Angle: 20 IR: 764.00 PING: 73.33 cm
+Angle: 22 IR: 785.33 PING: 59.33 cm
+Angle: 24 IR: 835.67 PING: 47.33 cm
+Angle: 26 IR: 878.33 PING: 49.67 cm
+Angle: 28 IR: 915.67 PING: 67.67 cm
+Angle: 30 IR: 880.33 PING: 95.33 cm
+Angle: 32 IR: 795.00 PING: 77.67 cm
+Angle: 34 IR: 658.33 PING: 146.67 cm
+Angle: 36 IR: 1019.33 PING: 103.67 cm
+Angle: 38 IR: 1074.33 PING: 91.33 cm
+Angle: 40 IR: 1077.33 PING: 111.00 cm
+Angle: 42 IR: 1135.67 PING: 173.67 cm
+Angle: 44 IR: 1102.33 PING: 116.00 cm
+Angle: 46 IR: 1139.00 PING: 29.33 cm
+Angle: 48 IR: 1159.00 PING: 68.33 cm
+Angle: 50 IR: 1181.00 PING: 47.67 cm
+Angle: 52 IR: 1225.67 PING: 34.00 cm
+Angle: 54 IR: 1233.00 PING: 34.33 cm
+Angle: 56 IR: 1240.33 PING: 32.33 cm
+Angle: 58 IR: 1222.33 PING: 32.33 cm
+Angle: 60 IR: 1246.33 PING: 30.00 cm
+Angle: 62 IR: 1270.00 PING: 29.67 cm
+Angle: 64 IR: 1258.00 PING: 29.33 cm
+Angle: 66 IR: 1273.00 PING: 29.33 cm
+Angle: 68 IR: 1306.33 PING: 29.00 cm
+Angle: 70 IR: 1273.67 PING: 29.00 cm
+Angle: 72 IR: 1246.67 PING: 30.33 cm
+Angle: 74 IR: 1245.67 PING: 30.67 cm
+Angle: 76 IR: 1240.33 PING: 31.33 cm
+Angle: 78 IR: 1247.67 PING: 31.67 cm
+Angle: 80 IR: 1257.00 PING: 31.00 cm
+Angle: 82 IR: 1263.00 PING: 31.00 cm
+Angle: 84 IR: 1269.67 PING: 32.00 cm
+Angle: 86 IR: 1258.33 PING: 31.00 cm
+Angle: 88 IR: 1271.00 PING: 30.67 cm
+Angle: 90 IR: 1231.00 PING: 30.67 cm
+Angle: 92 IR: 1228.33 PING: 32.00 cm
+Angle: 94 IR: 1196.33 PING: 32.00 cm
+Angle: 96 IR: 1183.67 PING: 31.67 cm
+Angle: 98 IR: 1161.33 PING: 30.00 cm
+Angle: 100 IR: 1131.67 PING: 42.00 cm
+Angle: 102 IR: 1119.00 PING: 32.33 cm
+Angle: 104 IR: 1250.33 PING: 31.67 cm
+Angle: 106 IR: 1001.67 PING: 53.33 cm
+Angle: 108 IR: 959.67 PING: 70.00 cm
+Angle: 110 IR: 945.00 PING: 36.67 cm
+Angle: 112 IR: 897.00 PING: 49.00 cm
+Angle: 114 IR: 943.67 PING: 24.67 cm
+Angle: 116 IR: 891.00 PING: 19.00 cm
+Angle: 118 IR: 860.00 PING: 22.00 cm
+Angle: 120 IR: 865.00 PING: 68.33 cm
+Angle: 122 IR: 1368.33 PING: 96.33 cm
+Angle: 124 IR: 1903.00 PING: 79.33 cm
+Angle: 126 IR: 1961.67 PING: 65.00 cm
+Angle: 128 IR: 1857.67 PING: 55.33 cm
+Angle: 130 IR: 1760.33 PING: 75.33 cm
+Angle: 132 IR: 1590.00 PING: 80.33 cm
+Angle: 134 IR: 1373.67 PING: 97.00 cm
+Angle: 136 IR: 1257.00 PING: 96.00 cm
+Angle: 138 IR: 794.67 PING: 97.67 cm
+Angle: 140 IR: 524.33 PING: 93.67 cm
+Angle: 142 IR: 727.67 PING: 135.67 cm
+Angle: 144 IR: 813.67 PING: 88.00 cm
+Angle: 146 IR: 831.00 PING: 94.67 cm
+Angle: 148 IR: 610.33 PING: 64.67 cm
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 1003.00 PING: 74.00 cm
+Angle: 2 IR: 809.00 PING: 37.33 cm
+Angle: 4 IR: 840.67 PING: 38.00 cm
+Angle: 6 IR: 785.67 PING: 55.67 cm
+Angle: 8 IR: 577.67 PING: 50.67 cm
+Angle: 10 IR: 586.33 PING: 81.33 cm
+Angle: 12 IR: 613.33 PING: 54.33 cm
+Angle: 14 IR: 631.33 PING: 77.67 cm
+Angle: 16 IR: 668.33 PING: 33.67 cm
+Angle: 18 IR: 707.67 PING: 35.33 cm
+Angle: 20 IR: 761.67 PING: 52.33 cm
+Angle: 22 IR: 790.33 PING: 59.33 cm
+Angle: 24 IR: 831.67 PING: 72.00 cm
+Angle: 26 IR: 897.00 PING: 87.33 cm
+Angle: 28 IR: 937.00 PING: 111.33 cm
+Angle: 30 IR: 885.67 PING: 132.67 cm
+Angle: 32 IR: 791.00 PING: 129.33 cm
+Angle: 34 IR: 744.33 PING: 71.00 cm
+Angle: 36 IR: 1022.67 PING: 104.67 cm
+Angle: 38 IR: 1054.67 PING: 53.33 cm
+Angle: 40 IR: 1081.67 PING: 70.67 cm
+Angle: 42 IR: 1120.33 PING: 97.00 cm
+Angle: 44 IR: 1102.33 PING: 28.00 cm
+Angle: 46 IR: 1165.00 PING: 75.33 cm
+Angle: 48 IR: 1157.67 PING: 67.33 cm
+Angle: 50 IR: 1202.33 PING: 30.33 cm
+Angle: 52 IR: 1205.33 PING: 33.33 cm
+Angle: 54 IR: 1199.00 PING: 33.67 cm
+Angle: 56 IR: 1239.00 PING: 32.00 cm
+Angle: 58 IR: 1223.67 PING: 31.33 cm
+Angle: 60 IR: 1246.00 PING: 30.67 cm
+Angle: 62 IR: 1269.00 PING: 29.67 cm
+Angle: 64 IR: 1268.33 PING: 28.67 cm
+Angle: 66 IR: 1290.00 PING: 29.33 cm
+Angle: 68 IR: 1275.67 PING: 29.00 cm
+Angle: 70 IR: 1271.67 PING: 28.67 cm
+Angle: 72 IR: 1240.33 PING: 29.67 cm
+Angle: 74 IR: 1240.33 PING: 29.00 cm
+Angle: 76 IR: 1240.33 PING: 30.00 cm
+Angle: 78 IR: 1244.00 PING: 30.00 cm
+Angle: 80 IR: 1245.00 PING: 30.67 cm
+Angle: 82 IR: 1271.00 PING: 30.33 cm
+Angle: 84 IR: 1273.67 PING: 32.00 cm
+Angle: 86 IR: 1242.00 PING: 30.33 cm
+Angle: 88 IR: 1243.67 PING: 30.33 cm
+Angle: 90 IR: 1216.33 PING: 31.33 cm
+Angle: 92 IR: 1224.33 PING: 32.00 cm
+Angle: 94 IR: 1202.33 PING: 32.00 cm
+Angle: 96 IR: 1183.00 PING: 31.67 cm
+Angle: 98 IR: 1178.33 PING: 40.33 cm
+Angle: 100 IR: 1145.33 PING: 39.00 cm
+Angle: 102 IR: 2855.67 PING: 41.00 cm
+Angle: 104 IR: 3488.33 PING: 30.00 cm
+Angle: 106 IR: 2990.33 PING: 31.67 cm
+Angle: 108 IR: 3003.33 PING: 50.33 cm
+Angle: 110 IR: 2331.33 PING: 41.67 cm
+Angle: 112 IR: 2355.67 PING: 46.33 cm
+Angle: 114 IR: 2541.33 PING: 46.33 cm
+Angle: 116 IR: 2495.67 PING: 65.00 cm
+Angle: 118 IR: 2369.33 PING: 20.00 cm
+Angle: 120 IR: 1390.33 PING: 4.67 cm
+Angle: 122 IR: 1284.00 PING: 4.00 cm
+Angle: 124 IR: 2690.33 PING: 22.33 cm
+Angle: 126 IR: 1950.67 PING: 27.00 cm
+Angle: 128 IR: 1840.33 PING: 52.33 cm
+Angle: 130 IR: 1733.67 PING: 43.00 cm
+Angle: 132 IR: 1579.67 PING: 68.33 cm
+Angle: 134 IR: 1416.33 PING: 66.33 cm
+Angle: 136 IR: 1230.33 PING: 83.00 cm
+Angle: 138 IR: 669.67 PING: 85.33 cm
+Angle: 140 IR: 537.67 PING: 133.00 cm
+Angle: 142 IR: 568.33 PING: 132.00 cm
+Angle: 144 IR: 805.00 PING: 135.67 cm
+Angle: 146 IR: 856.33 PING: 110.00 cm
+Angle: 148 IR: 578.33 PING: 95.33 cm
+Angle: 150 IR: 515.00 PING: 91.00 cm
+Angle: 152 IR: 562.00 PING: 89.33 cm
+Angle: 154 IR: 815.00 PING: 51.67 cm
+Angle: 156 IR: 769.67 PING: 63.00 cm
+Angle: 158 IR: 741.67 PING: 77.33 cm
+Angle: 160 IR: 745.67 PING: 105.67 cm
+Angle: 162 IR: 733.00 PING: 88.67 cm
+Angle: 164 IR: 741.67 PING: 100.33 cm
+Angle: 166 IR: 731.33 PING: 85.67 cm
+Angle: 168 IR: 733.67 PING: 110.33 cm
+Angle: 170 IR: 733.00 PING: 112.33 cm
+Angle: 172 IR: 757.67 PING: 90.00 cm
+Angle: 174 IR: 756.33 PING: 65.33 cm
+Angle: 176 IR: 799.00 PING: 80.33 cm
+Angle: 178 IR: 873.67 PING: 127.33 cm
+Angle: 180 IR: 893.67 PING: 120.67 cm
+m
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 1004.00 PING: 51.67 cm
+Angle: 2 IR: 801.33 PING: 51.33 cm
+Angle: 4 IR: 819.00 PING: 58.33 cm
+Angle: 6 IR: 645.00 PING: 64.33 cm
+Angle: 8 IR: 565.67 PING: 55.67 cm
+Angle: 10 IR: 582.33 PING: 81.33 cm
+Angle: 12 IR: 612.67 PING: 103.00 cm
+Angle: 14 IR: 640.00 PING: 64.33 cm
+Angle: 16 IR: 679.33 PING: 66.33 cm
+Angle: 18 IR: 711.00 PING: 50.00 cm
+Angle: 20 IR: 749.67 PING: 63.00 cm
+Angle: 22 IR: 791.00 PING: 70.33 cm
+Angle: 24 IR: 816.33 PING: 127.00 cm
+Angle: 26 IR: 879.00 PING: 300.00 cm
+Angle: 28 IR: 907.00 PING: 76.33 cm
+Angle: 30 IR: 865.67 PING: 107.33 cm
+Angle: 32 IR: 787.67 PING: 159.33 cm
+Angle: 34 IR: 675.00 PING: 95.33 cm
+Angle: 36 IR: 1020.33 PING: 88.33 cm
+Angle: 38 IR: 1054.33 PING: 87.67 cm
+Angle: 40 IR: 1084.33 PING: 137.00 cm
+Angle: 42 IR: 1106.33 PING: 155.00 cm
+Angle: 44 IR: 1101.67 PING: 153.00 cm
+Angle: 46 IR: 1137.00 PING: 30.00 cm
+Angle: 48 IR: 1164.00 PING: 30.33 cm
+Angle: 50 IR: 1192.33 PING: 33.00 cm
+Angle: 52 IR: 1222.33 PING: 32.33 cm
+Angle: 54 IR: 1225.67 PING: 33.67 cm
+Angle: 56 IR: 1260.33 PING: 32.67 cm
+Angle: 58 IR: 1226.33 PING: 31.67 cm
+Angle: 60 IR: 1259.67 PING: 31.33 cm
+Angle: 62 IR: 1257.67 PING: 29.00 cm
+Angle: 64 IR: 1271.00 PING: 27.00 cm
+Angle: 66 IR: 1283.00 PING: 29.33 cm
+Angle: 68 IR: 1290.33 PING: 27.33 cm
+Angle: 70 IR: 1260.33 PING: 29.00 cm
+Angle: 72 IR: 1241.33 PING: 29.00 cm
+Angle: 74 IR: 1244.00 PING: 30.67 cm
+Angle: 76 IR: 1265.00 PING: 30.00 cm
+Angle: 78 IR: 1247.33 PING: 30.67 cm
+Angle: 80 IR: 1233.33 PING: 30.33 cm
+Angle: 82 IR: 1252.33 PING: 31.00 cm
+Angle: 84 IR: 1269.00 PING: 31.00 cm
+Angle: 86 IR: 1252.67 PING: 31.00 cm
+Angle: 88 IR: 1245.00 PING: 30.00 cm
+Angle: 90 IR: 1218.33 PING: 30.67 cm
+Angle: 92 IR: 1227.67 PING: 31.33 cm
+Angle: 94 IR: 1235.00 PING: 32.33 cm
+Angle: 96 IR: 1172.00 PING: 32.33 cm
+Angle: 98 IR: 1158.00 PING: 33.00 cm
+Angle: 100 IR: 1146.33 PING: 38.00 cm
+Angle: 102 IR: 1112.33 PING: 30.00 cm
+Angle: 104 IR: 1101.00 PING: 48.33 cm
+Angle: 106 IR: 992.67 PING: 30.67 cm
+Angle: 108 IR: 958.00 PING: 60.67 cm
+Angle: 110 IR: 944.33 PING: 77.67 cm
+Angle: 112 IR: 922.33 PING: 115.33 cm
+Angle: 114 IR: 933.67 PING: 21.67 cm
+Angle: 116 IR: 931.67 PING: 19.00 cm
+Angle: 118 IR: 925.67 PING: 42.33 cm
+Angle: 120 IR: 852.33 PING: 69.67 cm
+Angle: 122 IR: 1237.33 PING: 58.00 cm
+Angle: 124 IR: 1931.33 PING: 38.33 cm
+Angle: 126 IR: 1957.67 PING: 41.33 cm
+Angle: 128 IR: 1837.33 PING: 55.00 cm
+Angle: 130 IR: 1713.00 PING: 68.33 cm
+Angle: 132 IR: 1533.67 PING: 81.33 cm
+Angle: 134 IR: 1317.67 PING: 69.67 cm
+Angle: 136 IR: 1155.00 PING: 116.33 cm
+Angle: 138 IR: 740.33 PING: 170.00 cm
+Angle: 140 IR: 533.00 PING: 132.00 cm
+Angle: 142 IR: 588.67 PING: 102.00 cm
+Angle: 144 IR: 836.67 PING: 116.67 cm
+Angle: 146 IR: 826.33 PING: 108.33 cm
+Angle: 148 IR: 570.33 PING: 105.00 cm
+Angle: 150 IR: 518.33 PING: 70.00 cm
+Angle: 152 IR: 562.67 PING: 80.00 cm
+Angle: 154 IR: 878.33 PING: 128.00 cm
+Angle: 156 IR: 777.00 PING: 110.33 cm
+Angle: 158 IR: 722.33 PING: 78.67 cm
+Angle: 160 IR: 733.67 PING: 108.67 cm
+Angle: 162 IR: 746.33 PING: 79.67 cm
+Angle: 164 IR: 740.67 PING: 151.00 cm
+Angle: 166 IR: 733.67 PING: 127.33 cm
+Angle: 168 IR: 730.00 PING: 93.00 cm
+Angle: 170 IR: 733.67 PING: 59.67 cm
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 1007.00 PING: 67.00 cm
+Angle: 2 IR: 792.33 PING: 52.67 cm
+Angle: 4 IR: 820.33 PING: 43.33 cm
+Angle: 6 IR: 632.00 PING: 50.33 cm
+Angle: 8 IR: 563.00 PING: 43.67 cm
+Angle: 10 IR: 582.33 PING: 57.67 cm
+Angle: 12 IR: 591.00 PING: 41.00 cm
+Angle: 14 IR: 628.67 PING: 70.00 cm
+Angle: 16 IR: 661.67 PING: 57.33 cm
+Angle: 18 IR: 715.67 PING: 61.00 cm
+Angle: 20 IR: 780.33 PING: 71.00 cm
+Angle: 22 IR: 785.00 PING: 104.00 cm
+Angle: 24 IR: 873.00 PING: 135.33 cm
+Angle: 26 IR: 892.67 PING: 108.00 cm
+Angle: 28 IR: 901.67 PING: 97.33 cm
+Angle: 30 IR: 864.33 PING: 49.67 cm
+Angle: 32 IR: 763.00 PING: 129.00 cm
+Angle: 34 IR: 666.33 PING: 223.00 cm
+Angle: 36 IR: 1018.67 PING: 107.00 cm
+Angle: 38 IR: 1057.67 PING: 34.00 cm
+Angle: 40 IR: 1081.00 PING: 117.33 cm
+Angle: 42 IR: 1115.67 PING: 228.67 cm
+Angle: 44 IR: 1105.67 PING: 283.33 cm
+Angle: 46 IR: 1141.33 PING: 28.67 cm
+Angle: 48 IR: 1171.33 PING: 68.33 cm
+Angle: 50 IR: 1180.33 PING: 56.67 cm
+Angle: 52 IR: 1201.00 PING: 53.67 cm
+Angle: 54 IR: 1217.67 PING: 31.33 cm
+Angle: 56 IR: 1231.67 PING: 28.33 cm
+Angle: 58 IR: 1225.00 PING: 28.67 cm
+Angle: 60 IR: 1252.33 PING: 30.00 cm
+Angle: 62 IR: 1264.33 PING: 30.67 cm
+Angle: 64 IR: 1268.33 PING: 29.67 cm
+Angle: 66 IR: 1271.67 PING: 29.00 cm
+Angle: 68 IR: 1278.33 PING: 28.67 cm
+Angle: 70 IR: 1260.33 PING: 29.00 cm
+Angle: 72 IR: 1237.00 PING: 30.00 cm
+Angle: 74 IR: 1239.00 PING: 28.00 cm
+Angle: 76 IR: 1240.67 PING: 31.00 cm
+Angle: 78 IR: 1239.67 PING: 30.67 cm
+Angle: 80 IR: 1239.00 PING: 31.67 cm
+Angle: 82 IR: 1257.00 PING: 28.67 cm
+Angle: 84 IR: 1265.00 PING: 30.00 cm
+Angle: 86 IR: 1237.00 PING: 30.33 cm
+Angle: 88 IR: 1239.33 PING: 30.00 cm
+Angle: 90 IR: 1231.67 PING: 30.67 cm
+Angle: 92 IR: 1213.00 PING: 32.33 cm
+Angle: 94 IR: 1213.00 PING: 32.00 cm
+Angle: 96 IR: 1170.33 PING: 31.67 cm
+Angle: 98 IR: 1159.33 PING: 35.67 cm
+Angle: 100 IR: 1150.33 PING: 48.33 cm
+Angle: 102 IR: 1135.33 PING: 30.33 cm
+Angle: 104 IR: 1121.00 PING: 31.67 cm
+Angle: 106 IR: 997.67 PING: 30.67 cm
+Angle: 108 IR: 958.33 PING: 41.67 cm
+Angle: 110 IR: 937.67 PING: 61.67 cm
+Angle: 112 IR: 897.33 PING: 55.33 cm
+Angle: 114 IR: 919.00 PING: 19.00 cm
+Angle: 116 IR: 897.67 PING: 19.00 cm
+Angle: 118 IR: 853.00 PING: 53.33 cm
+Angle: 120 IR: 854.33 PING: 121.00 cm
+Angle: 122 IR: 1414.67 PING: 38.33 cm
+Angle: 124 IR: 1958.33 PING: 35.00 cm
+Angle: 126 IR: 1981.00 PING: 63.00 cm
+Angle: 128 IR: 1825.67 PING: 69.33 cm
+Angle: 130 IR: 1719.00 PING: 74.00 cm
+Angle: 132 IR: 1524.67 PING: 66.00 cm
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 851.67 PING: 47.33 cm
+Angle: 2 IR: 1032.33 PING: 46.33 cm
+Angle: 4 IR: 1069.67 PING: 46.33 cm
+Angle: 6 IR: 1265.00 PING: 46.33 cm
+Angle: 8 IR: 1469.00 PING: 52.00 cm
+Angle: 10 IR: 1502.33 PING: 52.33 cm
+Angle: 12 IR: 1455.00 PING: 55.67 cm
+Angle: 14 IR: 1413.67 PING: 66.00 cm
+Angle: 16 IR: 1402.00 PING: 73.33 cm
+Angle: 18 IR: 1372.33 PING: 87.00 cm
+Angle: 20 IR: 1343.00 PING: 63.67 cm
+Angle: 22 IR: 1287.67 PING: 61.00 cm
+Angle: 24 IR: 1253.67 PING: 55.67 cm
+Angle: 26 IR: 1208.33 PING: 51.00 cm
+Angle: 28 IR: 1161.00 PING: 88.00 cm
+Angle: 30 IR: 1125.00 PING: 76.00 cm
+Angle: 32 IR: 1052.33 PING: 60.00 cm
+Angle: 34 IR: 1050.33 PING: 74.33 cm
+Angle: 36 IR: 3510.67 PING: 6.33 cm
+Angle: 38 IR: 3018.33 PING: 5.67 cm
+Angle: 40 IR: 2849.00 PING: 5.00 cm
+Angle: 42 IR: 2746.33 PING: 5.00 cm
+Angle: 44 IR: 2641.67 PING: 5.00 cm
+Angle: 46 IR: 2645.67 PING: 4.00 cm
+Angle: 48 IR: 2521.33 PING: 4.00 cm
+Angle: 50 IR: 2713.67 PING: 4.00 cm
+Angle: 52 IR: 2659.67 PING: 4.00 cm
+Angle: 54 IR: 2720.67 PING: 4.00 cm
+Angle: 56 IR: 2012.33 PING: 4.33 cm
+Angle: 58 IR: 2304.33 PING: 6.33 cm
+Angle: 60 IR: 755.67 PING: 77.67 cm
+Angle: 62 IR: 739.67 PING: 100.67 cm
+Angle: 64 IR: 731.33 PING: 95.67 cm
+Angle: 66 IR: 753.00 PING: 95.67 cm
+Angle: 68 IR: 745.67 PING: 81.00 cm
+Angle: 70 IR: 749.67 PING: 94.00 cm
+Angle: 72 IR: 727.67 PING: 112.33 cm
+Angle: 74 IR: 749.67 PING: 100.33 cm
+Angle: 76 IR: 731.00 PING: 70.67 cm
+Angle: 78 IR: 743.00 PING: 95.67 cm
+Angle: 80 IR: 723.00 PING: 68.33 cm
+Angle: 82 IR: 735.67 PING: 66.67 cm
+Angle: 84 IR: 927.33 PING: 57.67 cm
+Angle: 86 IR: 2749.00 PING: 16.00 cm
+Angle: 88 IR: 3849.33 PING: 5.00 cm
+Angle: 90 IR: 3865.67 PING: 5.00 cm
+Angle: 92 IR: 3133.00 PING: 5.00 cm
+Angle: 94 IR: 2262.67 PING: 6.67 cm
+Angle: 96 IR: 1635.67 PING: 16.67 cm
+Angle: 98 IR: 1314.00 PING: 28.00 cm
+Angle: 100 IR: 1329.67 PING: 26.33 cm
+Angle: 102 IR: 1331.00 PING: 26.00 cm
+Angle: 104 IR: 1181.67 PING: 25.33 cm
+Angle: 106 IR: 1215.33 PING: 25.00 cm
+Angle: 108 IR: 1275.67 PING: 27.33 cm
+Angle: 110 IR: 1286.67 PING: 27.67 cm
+Angle: 112 IR: 1254.67 PING: 29.33 cm
+Angle: 114 IR: 1132.33 PING: 27.67 cm
+Angle: 116 IR: 893.67 PING: 33.67 cm
+Angle: 118 IR: 658.33 PING: 29.33 cm
+Angle: 120 IR: 523.67 PING: 29.00 cm
+Angle: 122 IR: 515.00 PING: 28.33 cm
+Angle: 124 IR: 901.00 PING: 32.33 cm
+Angle: 126 IR: 1109.00 PING: 27.67 cm
+Angle: 128 IR: 1219.67 PING: 28.33 cm
+Angle: 130 IR: 1087.67 PING: 29.33 cm
+Angle: 132 IR: 736.67 PING: 27.33 cm
+Angle: 134 IR: 716.33 PING: 28.00 cm
+Angle: 136 IR: 673.00 PING: 28.00 cm
+Angle: 138 IR: 637.67 PING: 29.33 cm
+Angle: 140 IR: 647.67 PING: 30.00 cm
+Angle: 142 IR: 645.67 PING: 31.00 cm
+Angle: 144 IR: 672.67 PING: 36.33 cm
+Angle: 146 IR: 656.00 PING: 28.67 cm
+Angle: 148 IR: 650.67 PING: 31.33 cm
+Angle: 150 IR: 689.67 PING: 28.67 cm
+Angle: 152 IR: 824.67 PING: 28.67 cm
+Angle: 154 IR: 607.00 PING: 27.67 cm
+Angle: 156 IR: 550.33 PING: 32.33 cm
+Angle: 158 IR: 517.00 PING: 50.33 cm
+Angle: 160 IR: 659.33 PING: 85.33 cm
+Angle: 162 IR: 1046.33 PING: 49.00 cm
+Angle: 164 IR: 1071.67 PING: 40.00 cm
+Angle: 166 IR: 1088.00 PING: 50.33 cm
+Angle: 168 IR: 1123.67 PING: 38.00 cm
+Angle: 170 IR: 1142.00 PING: 81.33 cm
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 726.00 PING: 154.67 cm
+Angle: 2 IR: 689.67 PING: 30.33 cm
+Angle: 4 IR: 626.33 PING: 58.33 cm
+Angle: 6 IR: 701.00 PING: 51.33 cm
+Angle: 8 IR: 637.67 PING: 35.00 cm
+Angle: 10 IR: 662.67 PING: 72.67 cm
+Angle: 12 IR: 623.00 PING: 64.33 cm
+Angle: 14 IR: 590.33 PING: 63.33 cm
+Angle: 16 IR: 664.67 PING: 114.67 cm
+Angle: 18 IR: 658.33 PING: 81.67 cm
+Angle: 20 IR: 1134.67 PING: 134.33 cm
+Angle: 22 IR: 1063.00 PING: 163.33 cm
+Angle: 24 IR: 987.33 PING: 143.33 cm
+Angle: 26 IR: 937.67 PING: 168.67 cm
+Angle: 28 IR: 949.00 PING: 151.67 cm
+Angle: 30 IR: 841.00 PING: 85.33 cm
+Angle: 32 IR: 825.67 PING: 81.33 cm
+Angle: 34 IR: 716.67 PING: 93.00 cm
+Angle: 36 IR: 687.33 PING: 52.33 cm
+Angle: 38 IR: 620.33 PING: 72.00 cm
+Angle: 40 IR: 610.33 PING: 79.33 cm
+Angle: 42 IR: 625.00 PING: 49.00 cm
+Angle: 44 IR: 639.67 PING: 96.67 cm
+Angle: 46 IR: 645.67 PING: 73.00 cm
+Angle: 48 IR: 641.00 PING: 64.33 cm
+Angle: 50 IR: 654.00 PING: 120.33 cm
+Angle: 52 IR: 643.00 PING: 131.00 cm
+Angle: 54 IR: 665.33 PING: 95.33 cm
+Angle: 56 IR: 660.33 PING: 120.67 cm
+Angle: 58 IR: 654.00 PING: 159.67 cm
+Angle: 60 IR: 675.00 PING: 149.33 cm
+Angle: 62 IR: 660.33 PING: 158.00 cm
+Angle: 64 IR: 759.67 PING: 138.67 cm
+Angle: 66 IR: 647.00 PING: 142.67 cm
+Angle: 68 IR: 863.00 PING: 118.00 cm
+Angle: 70 IR: 684.00 PING: 150.00 cm
+Angle: 72 IR: 689.67 PING: 102.67 cm
+Angle: 74 IR: 783.00 PING: 129.33 cm
+Angle: 76 IR: 859.33 PING: 187.33 cm
+Angle: 78 IR: 816.33 PING: 120.00 cm
+Angle: 80 IR: 783.33 PING: 116.00 cm
+Angle: 82 IR: 768.00 PING: 149.00 cm
+Angle: 84 IR: 643.67 PING: 175.67 cm
+Angle: 86 IR: 586.00 PING: 153.33 cm
+Angle: 88 IR: 584.00 PING: 192.00 cm
+Angle: 90 IR: 584.33 PING: 132.00 cm
+Angle: 92 IR: 621.67 PING: 112.67 cm
+Angle: 94 IR: 585.67 PING: 120.00 cm
+Angle: 96 IR: 681.00 PING: 143.00 cm
+Angle: 98 IR: 679.00 PING: 82.67 cm
+Angle: 100 IR: 682.33 PING: 84.67 cm
+Angle: 102 IR: 684.67 PING: 141.00 cm
+Angle: 104 IR: 682.33 PING: 112.00 cm
+Angle: 106 IR: 688.33 PING: 107.33 cm
+Angle: 108 IR: 697.00 PING: 90.33 cm
+Angle: 110 IR: 724.00 PING: 82.00 cm
+Angle: 112 IR: 1052.33 PING: 70.00 cm
+Angle: 114 IR: 883.00 PING: 70.67 cm
+Angle: 116 IR: 1037.67 PING: 49.00 cm
+Angle: 118 IR: 1081.67 PING: 114.33 cm
+Angle: 120 IR: 1397.67 PING: 17.33 cm
+Angle: 122 IR: 1043.67 PING: 12.67 cm
+Angle: 124 IR: 1015.33 PING: 28.00 cm
+Angle: 126 IR: 1151.00 PING: 46.67 cm
+Angle: 128 IR: 915.00 PING: 64.33 cm
+Angle: 130 IR: 888.67 PING: 70.33 cm
+Angle: 132 IR: 918.33 PING: 26.33 cm
+Angle: 134 IR: 876.33 PING: 45.67 cm
+Angle: 136 IR: 882.33 PING: 26.67 cm
+Angle: 138 IR: 815.00 PING: 32.67 cm
+Angle: 140 IR: 859.00 PING: 28.00 cm
+Angle: 142 IR: 815.00 PING: 52.67 cm
+Angle: 144 IR: 792.33 PING: 29.33 cm
+Angle: 146 IR: 761.00 PING: 30.33 cm
+Angle: 148 IR: 774.33 PING: 47.67 cm
+Angle: 150 IR: 798.33 PING: 32.67 cm
+Angle: 152 IR: 763.00 PING: 73.33 cm
+Angle: 154 IR: 763.33 PING: 54.00 cm
+Angle: 156 IR: 768.33 PING: 79.67 cm
+Angle: 158 IR: 786.00 PING: 67.00 cm
+Angle: 160 IR: 779.67 PING: 125.00 cm
+Angle: 162 IR: 771.00 PING: 95.33 cm
+Angle: 164 IR: 725.33 PING: 67.33 cm
+Angle: 166 IR: 745.67 PING: 63.67 cm
+Angle: 168 IR: 737.67 PING: 72.67 cm
+Angle: 170 IR: 737.67 PING: 85.00 cm
+Angle: 172 IR: 737.00 PING: 136.00 cm
+Angle: 174 IR: 720.33 PING: 130.67 cm
+Angle: 176 IR: 740.33 PING: 122.67 cm
+Angle: 178 IR: 720.00 PING: 124.67 cm
+Angle: 180 IR: 719.00 PING: 102.67 cm
+m
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 970.33 PING: 86.33 cm
+Angle: 2 IR: 1125.67 PING: 40.00 cm
+Angle: 4 IR: 1126.33 PING: 38.33 cm
+Angle: 6 IR: 1132.67 PING: 37.67 cm
+Angle: 8 IR: 1104.00 PING: 56.00 cm
+Angle: 10 IR: 1090.33 PING: 27.67 cm
+Angle: 12 IR: 1057.33 PING: 21.00 cm
+Angle: 14 IR: 1058.00 PING: 12.00 cm
+Angle: 16 IR: 1045.67 PING: 10.00 cm
+Angle: 18 IR: 1043.67 PING: 9.67 cm
+Angle: 20 IR: 1061.00 PING: 9.33 cm
+Angle: 22 IR: 1064.33 PING: 10.00 cm
+Angle: 24 IR: 1071.67 PING: 16.67 cm
+Angle: 26 IR: 1080.67 PING: 18.00 cm
+Angle: 28 IR: 1052.33 PING: 17.00 cm
+Angle: 30 IR: 1027.00 PING: 50.67 cm
+Angle: 32 IR: 998.00 PING: 10.33 cm
+Angle: 34 IR: 975.00 PING: 11.33 cm
+Angle: 36 IR: 1142.33 PING: 11.33 cm
+Angle: 38 IR: 1111.00 PING: 10.67 cm
+Angle: 40 IR: 1466.33 PING: 14.33 cm
+Angle: 42 IR: 1584.33 PING: 16.67 cm
+Angle: 44 IR: 1542.67 PING: 16.67 cm
+Angle: 46 IR: 1499.00 PING: 16.67 cm
+Angle: 48 IR: 1449.33 PING: 16.67 cm
+Angle: 50 IR: 1377.00 PING: 17.00 cm
+Angle: 52 IR: 1302.33 PING: 21.00 cm
+Angle: 54 IR: 1255.00 PING: 99.33 cm
+Angle: 56 IR: 1125.00 PING: 18.67 cm
+Angle: 58 IR: 1065.00 PING: 22.33 cm
+Angle: 60 IR: 1144.33 PING: 62.33 cm
+Angle: 62 IR: 1003.67 PING: 24.00 cm
+Angle: 64 IR: 921.67 PING: 31.67 cm
+Angle: 66 IR: 864.67 PING: 80.00 cm
+Angle: 68 IR: 688.00 PING: 27.33 cm
+Angle: 70 IR: 518.00 PING: 105.33 cm
+Angle: 72 IR: 517.67 PING: 26.33 cm
+Angle: 74 IR: 532.33 PING: 26.33 cm
+Angle: 76 IR: 533.00 PING: 27.33 cm
+Angle: 78 IR: 561.67 PING: 25.33 cm
+Angle: 80 IR: 518.33 PING: 26.67 cm
+Angle: 82 IR: 523.00 PING: 27.00 cm
+Angle: 84 IR: 514.67 PING: 26.33 cm
+Angle: 86 IR: 572.00 PING: 28.33 cm
+Angle: 88 IR: 521.00 PING: 43.33 cm
+Angle: 90 IR: 509.67 PING: 31.00 cm
+Angle: 92 IR: 545.67 PING: 28.00 cm
+Angle: 94 IR: 653.00 PING: 28.33 cm
+Angle: 96 IR: 670.33 PING: 28.33 cm
+Angle: 98 IR: 673.67 PING: 27.67 cm
+Angle: 100 IR: 677.00 PING: 28.00 cm
+Angle: 102 IR: 697.67 PING: 28.00 cm
+Angle: 104 IR: 963.33 PING: 60.33 cm
+Angle: 106 IR: 742.33 PING: 79.67 cm
+Angle: 108 IR: 861.00 PING: 53.67 cm
+Angle: 110 IR: 774.33 PING: 67.00 cm
+Angle: 112 IR: 714.00 PING: 95.33 cm
+Angle: 114 IR: 718.33 PING: 73.00 cm
+Angle: 116 IR: 695.67 PING: 50.67 cm
+Angle: 118 IR: 723.67 PING: 135.67 cm
+Angle: 120 IR: 820.67 PING: 80.00 cm
+Angle: 122 IR: 869.67 PING: 73.00 cm
+Angle: 124 IR: 906.00 PING: 74.33 cm
+Angle: 126 IR: 939.67 PING: 109.00 cm
+Angle: 128 IR: 937.00 PING: 64.33 cm
+Angle: 130 IR: 940.67 PING: 28.33 cm
+Angle: 132 IR: 916.67 PING: 30.33 cm
+Angle: 134 IR: 945.00 PING: 28.33 cm
+Angle: 136 IR: 945.67 PING: 27.00 cm
+Angle: 138 IR: 1011.67 PING: 27.67 cm
+Angle: 140 IR: 1070.67 PING: 31.33 cm
+Angle: 142 IR: 880.00 PING: 29.33 cm
+Angle: 144 IR: 742.67 PING: 33.67 cm
+Angle: 146 IR: 685.67 PING: 27.00 cm
+Angle: 148 IR: 547.00 PING: 27.33 cm
+Angle: 150 IR: 623.67 PING: 34.67 cm
+Angle: 152 IR: 527.00 PING: 27.00 cm
+Angle: 154 IR: 527.00 PING: 27.67 cm
+Angle: 156 IR: 517.00 PING: 28.00 cm
+Angle: 158 IR: 541.67 PING: 27.33 cm
+Angle: 160 IR: 609.67 PING: 28.00 cm
+
+Performing IR Scan...
+Detected object from angle: 0 to 36 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 66 to 180 
+Measured distance with PING: 536873536.00 cm
+m
+Performing IR Scan...
+Detected object from angle: 0 to 40 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 60 to 180 
+Measured distance with PING: 536873536.00 cm
+m
+Performing IR Scan...
+Detected object from angle: 8 to 10 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 14 to 14 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 18 to 18 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 38 to 38 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 42 to 42 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 46 to 50 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 54 to 56 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 66 to 66 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 70 to 70 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 76 to 76 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 82 to 82 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 90 to 90 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 94 to 94 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 100 to 102 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 124 to 128 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 132 to 134 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 138 to 138 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 144 to 144 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 156 to 156 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 162 to 162 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 172 to 172 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 176 to 176 
+Measured distance with PING: 536873536.00 cm
+m
+Performing IR Scan...
+Detected object from angle: 0 to 0 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 8 to 8 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 14 to 18 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 28 to 30 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 34 to 34 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 38 to 38 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 46 to 46 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 52 to 54 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 58 to 58 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 68 to 68 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 80 to 80 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 84 to 86 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 96 to 98 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 110 to 112 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 122 to 124 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 130 to 130 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 134 to 134 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 144 to 144 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 148 to 148 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 160 to 160 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 164 to 164 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 168 to 168 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 172 to 172 
+Measured distance with PING: 536873536.00 cm
+m
+Performing IR Scan...
+Detected object from angle: 0 to 0 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 8 to 8 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 18 to 18 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 24 to 24 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 28 to 28 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 38 to 38 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 42 to 42 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 46 to 46 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 52 to 52 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 58 to 58 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 68 to 68 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 74 to 80 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 84 to 86 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 90 to 90 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 96 to 96 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 112 to 114 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 118 to 122 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 128 to 128 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 132 to 132 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 142 to 144 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 148 to 148 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 162 to 162 
+Measured distance with PING: 536873536.00 cm
+Detected object from angle: 176 to 176 
+Measured distance with PING: 536873536.00 cm
+m
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+awwddQuitting...
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 1105.33 PING: 41.67 cm
+
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 1100.67 PING: 40.67 cm

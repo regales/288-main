@@ -1,129 +1,292 @@
+test' 
 testing
-Èþtesting
-test
-
-test
-test
-
-test
-adad
-
-adad
-da
-
-da
-ad
-
-ad
-awd
-
-awd
-ss
-
-ss
-a
-
-a
-a
-
-a
-a
-
-a
-ds
-
-ds
-ds
-
-ds
-dwa
-
-dwa
-sd
-
-sd
-sd
-
-sd
-wdawd
-
-wdawd
-dw
-
-dw
-s
-
-s
-s
-
-s
-qwertyuioplkjhgfdsazxcvbnm
-
-qwertyuioplkjhgfdsa
-teefe
-teefedfsf
-
-dfsffsef
-
-fsefdf
-
-dfdfsfe
-
-dfsfesfdf
-
-sfdfsfdf
-
-sfdfsfef
-
-sfeffefef
-
-fefeftestdasdadad
-testf
-testf
-fasd
-
-fasd
-sdada
-
-sdada
-dwddddddd
-
-dwddddddd
+wtf
+testing
+ted sting
+wtf is going on
+this is not working
+testing
+hello
+wtfaisjidjsijdisdjisjdsidjsidjsidjisjidjsijdisjdisjdisjdisjidjsijdis
+qwertyuiopasdfghjklz
+testing
+wtf is going on
+testing
+owookk^A
+wwwww     w
 qwertyuiopasdfghjklz
 
-qwertyuiopasdfghjkl
-     ztestewa
-dwd
-asss
-sss
 
+dwa
+sd
+ad
+jwiwjwiw
+sndnsndnndndndnd
+wiiijaidsjsi
+thte
+eaa
+sd
+sd
+fff
+ads
+dwasjdnsjnd
+wdijs
+testing
+as
+s
 
-
+d
 a
-tes
-tst
-t                   
-      
+a
+are
+a
+this
+t
+pop
+p
+p
+pe
+a
+peoa  e
+e
+this shit is so stupid
+d
+this shit is so stupid
+d
+d
+d
+d
+d
+d
+d
+d
+d
+^A
+d
+s
+a
+test
+a
+
+sd
+s
+a
+d
+adc
+c
+dw
+a
+s
+c
+asd
+w
+^S
+d
+a
+v
+a
+s
+y
+w
+dwad
+wther
+testing
+wf tf
+this is bull
+wtf
+bruh
+tjois
+ao
+pwe
+powepo
+testing
+ada
+testnhhsd
+wtf
+wdsd
+test
+ads
+dhshs'suahsd'
+uwuw
+sudh
+test
+wasd
+test
+testtest
+w
+w
+test
+asd
+sda
+sd
+was
+ds
+sd
+s
+s
+s
+s
+s
+s
+aw
+dwasdwasdwasdwasdwasd
+sdwasd
+asd
+
+dddsssssssssssssssssssssssssssssssssssssssssssssssssss
+wwwwww
+qwertyuiopasdfgghjkl
+awd
+a
+sd
+sd
+s
+d
+
+
+wsda
+ds
+d
+a
+dwd
+a
+sdawd
+s
+d
+wda
+sd
+wjdiajidsjdisd
+adwojdowjdowadj
+d
+da
+dowjd
+odjojwd
+testing       test
+w
+dij
+sdadijidjsijdisjdisjdisjjd
+testing
+testingtetingthisshitassokdsotestingthisshitasscodetestingthisoutmybadowertyuiopasdfghjkklzxtes
+ss
 
 
 
-jghhj
-
-jhghd               
- qeasz
-qw
-weasd
-qrioplkhghfs
-wqedavbdfer
 
 
 
-o
-i
-ui
-lk
-erroll
-lokij
-est
-te
-tst
+
+
+f
+w
+qqqq
+qs
+as
+
+
+
+
+sas
+
+
+
+dwa
+s
+snskathoansksiwnakisislansiwnsisnnwisnalanwisjwoa
+ksossjsnwisnsisjsiaksnwiwjsnsna wjsndjs ajnsla w njwksijoanwftftftffighgughfu
+Angle  	PING Distance (cm)  	IR Distance (cm)
+---------------------------------------------------
+Angle: 0 IR: 1149.67 PING: 31.33 cm
+Angle: 2 IR: 1189.67 PING: 37.00 cm
+Angle: 4 IR: 1157.00 PING: 36.00 cm
+Angle: 6 IR: 1132.00 PING: 37.67 cm
+Angle: 8 IR: 1125.67 PING: 55.33 cm
+Angle: 10 IR: 1023.67 PING: 69.67 cm
+Angle: 12 IR: 498.33 PING: 73.00 cm
+Angle: 14 IR: 420.33 PING: 68.67 cm
+Angle: 16 IR: 400.33 PING: 68.00 cm
+Angle: 18 IR: 954.67 PING: 68.00 cm
+Angle: 20 IR: 873.67 PING: 64.33 cm
+Angle: 22 IR: 785.00 PING: 64.33 cm
+Angle: 24 IR: 786.00 PING: 53.00 cm
+Angle: 26 IR: 868.67 PING: 52.00 cm
+Angle: 28 IR: 901.67 PING: 51.00 cm
+Angle: 30 IR: 873.00 PING: 54.67 cm
+Angle: 32 IR: 927.00 PING: 46.67 cm
+Angle: 34 IR: 917.00 PING: 48.33 cm
+Angle: 36 IR: 913.67 PING: 49.33 cm
+Angle: 38 IR: 907.00 PING: 49.33 cm
+Angle: 40 IR: 943.33 PING: 48.33 cm
+Angle: 42 IR: 963.00 PING: 50.33 cm
+Angle: 44 IR: 999.00 PING: 55.00 cm
+Angle: 46 IR: 1017.00 PING: 45.33 cm
+Angle: 48 IR: 1062.33 PING: 54.00 cm
+Angle: 50 IR: 1050.33 PING: 52.67 cm
+Angle: 52 IR: 1060.67 PING: 42.00 cm
+Angle: 54 IR: 1078.67 PING: 42.00 cm
+Angle: 56 IR: 1113.33 PING: 29.67 cm
+Angle: 58 IR: 1118.33 PING: 28.00 cm
+Angle: 60 IR: 1109.00 PING: 29.67 cm
+Angle: 62 IR: 962.00 PING: 32.67 cm
+Angle: 64 IR: 967.00 PING: 32.00 cm
+Angle: 66 IR: 1201.67 PING: 31.67 cm
+Angle: 68 IR: 1212.33 PING: 31.33 cm
+Angle: 70 IR: 1225.67 PING: 30.67 cm
+Angle: 72 IR: 1229.67 PING: 30.67 cm
+Angle: 74 IR: 1242.67 PING: 31.67 cm
+Angle: 76 IR: 1259.00 PING: 31.33 cm
+Angle: 78 IR: 1246.33 PING: 31.00 cm
+Angle: 80 IR: 1261.00 PING: 31.00 cm
+Angle: 82 IR: 1266.33 PING: 30.33 cm
+Angle: 84 IR: 1267.00 PING: 30.00 cm
+Angle: 86 IR: 1327.67 PING: 30.67 cm
+Angle: 88 IR: 1383.33 PING: 30.67 cm
+Angle: 90 IR: 1443.00 PING: 30.67 cm
+Angle: 92 IR: 1450.33 PING: 30.00 cm
+Angle: 94 IR: 1346.00 PING: 31.00 cm
+Angle: 96 IR: 1299.67 PING: 31.00 cm
+Angle: 98 IR: 1244.33 PING: 31.00 cm
+Angle: 100 IR: 1249.67 PING: 30.67 cm
+Angle: 102 IR: 1228.67 PING: 30.00 cm
+Angle: 104 IR: 1228.00 PING: 30.67 cm
+Angle: 106 IR: 1250.33 PING: 30.67 cm
+Angle: 108 IR: 1228.33 PING: 30.67 cm
+Angle: 110 IR: 1245.67 PING: 31.33 cm
+Angle: 112 IR: 1245.00 PING: 31.67 cm
+Angle: 114 IR: 1203.67 PING: 30.33 cm
+Angle: 116 IR: 1389.33 PING: 31.00 cm
+Angle: 118 IR: 2041.00 PING: 18.33 cm
+Angle: 120 IR: 1764.00 PING: 22.00 cm
+Angle: 122 IR: 1142.67 PING: 32.33 cm
+Angle: 124 IR: 1126.33 PING: 30.67 cm
+Angle: 126 IR: 1109.67 PING: 37.00 cm
+Angle: 128 IR: 1098.33 PING: 27.33 cm
+Angle: 130 IR: 1082.00 PING: 34.00 cm
+Angle: 132 IR: 1086.33 PING: 27.00 cm
+Angle: 134 IR: 1067.67 PING: 27.00 cm
+Angle: 136 IR: 1017.67 PING: 27.00 cm
+Angle: 138 IR: 1023.67 PING: 27.33 cm
+Angle: 140 IR: 989.67 PING: 28.00 cm
+Angle: 142 IR: 980.33 PING: 28.00 cm
+Angle: 144 IR: 1062.33 PING: 28.00 cm
+Angle: 146 IR: 1528.67 PING: 27.33 cm
+Angle: 148 IR: 1665.00 PING: 28.00 cm
+Angle: 150 IR: 1697.67 PING: 27.33 cm
+Angle: 152 IR: 1483.33 PING: 26.33 cm
+Angle: 154 IR: 1336.33 PING: 27.67 cm
+Angle: 156 IR: 1012.33 PING: 28.00 cm
+Angle: 158 IR: 411.67 PING: 27.67 cm
+Angle: 160 IR: 397.67 PING: 27.00 cm
+Angle: 162 IR: 401.00 PING: 27.00 cm
+Angle: 164 IR: 413.00 PING: 27.00 cm
+Angle: 166 IR: 566.33 PING: 49.00 cm
+Angle: 168 IR: 477.00 PING: 31.00 cm
+Angle: 170 IR: 402.33 PING: 34.00 cm
+Angle: 172 IR: 401.00 PING: 34.67 cm
+Angle: 174 IR: 421.00 PING: 28.00 cm
+Angle: 176 IR: 405.67 PING: 35.67 cm
+Angle: 178 IR: 402.33 PING: 46.67 cm
+Angle: 180 IR: 405.67 PING: 64.00 cm
+mdccInvalid command. Please use a valid format like '20w' or '15s'.
+\\20w
+20w20w
+aaaaaaa
